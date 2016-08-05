@@ -1,5 +1,5 @@
 # PokemonGo-Reports
-Repositório com dados de spoofers do ingress. Para ajudar com o banimento dos mesmos.
+Repositório com dados de spoofers do Pokemon Go. Para ajudar com o banimento dos mesmos.
 
 ## Achou um spoofer? O que fazer
 - Se vocẽ conhece a pessoa, fale para ela parar o quanto antes (se possivel, crie uma conta nova). A graça do jogo está no desafio!
