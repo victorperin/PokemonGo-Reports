@@ -2,7 +2,7 @@
 Repositório com dados de spoofers do Pokemon Go. Para ajudar com o banimento dos mesmos.
 
 ## Achou um spoofer? O que fazer
-- Se vocẽ conhece a pessoa, fale para ela parar o quanto antes (se possivel, crie uma conta nova). A graça do jogo está no desafio!
+- Se vocẽ conhece a pessoa, fale para ela parar o quanto antes (se possivel, fale para usar uma outra conta, jogando limpo dessa vez).
 - Tire o maior quantidade de provas possiveis (Fotos, videos, audio, etc)
 - Envie para esse repositório (nós vamos ajudar a reportar)
 
